@@ -1,0 +1,231 @@
+http://credits.headrun.com/
+issue id : 201803
+==========================================
+Seller ID: Market Place User
+MRP, Batch No: FMCG
+==========================================
+at_payment_outbound
+
+
+https://docs.google.com/spreadsheets/d/1fYwpgT0QhrEKVn-E9ZN8QXpcz0cob5QCHB1tIigOb7Q/edit#gid=0
+that.host = 'http://dev.stockone.in:7654/';
+VIM COMMANDS
+==================================================================
+-> sudo service nginx restart
+-> vim /etc/nginx/sites-enabled/stockone.conf
+-> mysqldump -uroot -plaravel dds_vinay > dds_vinay.sql (Take dump)
+-> mysql -uroot -pvinaymdk dds_vinay < dds_vinay.sql (Import dump)
+Sublime Installation
+----------------------------------------
+-> wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+-> echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+-> sudo apt-get update
+-> sudo apt-get install sublime-text
+Sublime Uninstall
+----------------------------------------
+sudo apt-get remove sublime-text && sudo apt-get autoremove
+Less Install
+----------------------------------------
+-> sudo apt-get install npm
+
+-> sudo npm install -g less
+
+==================================================================
+sudo -i
+echo 1048576 > /proc/sys/fs/inotify/max_user_watches
+exit
+
+sysctl fs.inotify.max_user_instances=512
+==================================================================
+18002661001
+
+other
+----------------------------------------
+pip freeze (see installed dependencies)
+pip install --upgrade setuptools
+pip install simplejson
+pip install reportlab==3.2.0
+pip install six
+==================================================================
+
+AUTHENTICATION DETAILS
+==================================================================
+U_Name: DL01_DIST1_R1 (Reseller)
+Pwd   : dl01dist1r1@123
+----------------------------------------
+U_Name: DL01_DIST1_W (Warehouse)
+Pwd   : dl01dist1w@123
+----------------------------------------
+U_Name: demo
+Pwd   : demo
+----------------------------------------
+U_Name: roopal@mieone.com (Customer)
+Pwd   : qwerty
+----------------------------------------
+U_Name: sagar_fab ()
+Pwd   : sagarfab@1234
+DL01_DIST1_R1
+KA02_DIST1
+DL01_DIST1
+
+
+DL01_DIST1_R1	: Reseller
+KA02_DIST1_W 	: Distributor
+KA02_DIST1	: dist_customer
+DL01_DIST1_W	: Distributor
+DL01_DIST1	: dist_customer
+KA02		: Warehouse
+DL01		: Warehouse
+sm_admin	: Central Admin
+================================
+isprava_admin
+isprava_w1
+isprava_w2
+isprava_c1
+================================
+
+Z1D1R1 		: Reseller
+Z1D1_W 		: Distributor
+Z3D1_W 		: Distributor
+Z1D1		: Customer of Distributors
+add-intransit_orders
+EAOP10527
+V!N@¥©Mdk₹
+V!N@YMdk22
+VinayMDK@1122
+Vinay@1122
+
+ssh root@94.130.136.118 / ssh root@dev.stockone.in
+stockonedev@2017
+screen -x saipavan
+0510^2017
+
+mysqldump -uroot -p0510^2017 STAGING > 18_06_18
+scp root@dev.stockone.in:/root/swetha/STAGING_asn.sql /var/www/html/database_dump
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						
+ALTER TABLE CUSTOMER_MASTER ADD COLUMN customer_logo VARCHAR(256) NOT NULL AFTER cst_number;
+ALTER TABLE CUSTOMER_MASTER DROP COLUMN cin_number;
+
+scp root@dev.stockone.in:/root/STAGING_BKP/db_backup/21_06_18.sql /var/www/html/database_dump
+sw_upload_imgs_sku_master
+==================================================================
+
+GIT COMMANDS
+==================================================================
+-> git clone -b back_btn_show_users https://github.com/Mieone/WMS_ANGULAR.git back_btn_show_users
+-> git branch
+-> git status
+-> git add File_name
+-> git commit -m “Message”
+-> git push origin Branch_Name
+-> git checkout File_name
+==================================================================
+
+WORK REFERENCE
+==================================================================
+
+ng-readonly="showCase.model_data.user_type == 'distributor' || showCase.model_data.user_type == 'warehouse'"
+
+==================================================================
+POS Setup
+==================================================================
+-> bower install
+-> add extra port number
+-> change POS/app/conf/serverconfig.js backend path
+-> http://0.0.0.0:8080/#/home?user_id=3&user_name=demo
+==================================================================
+Notice Refund status check request has been generated. Our refund team will work on your request and will get back to you regarding the same. Your refund status check request ID is 52894
+==================================================================
+-> sudo apt-get install -f
+-> sudo dpkg -i /path
+-> code . --user-data-dir='.'
+
+config button - 
+off branch
+on hide branch
+
+Wrong Number: 9676994601
+
+
+
+server configuration
+===========================
+
+server {
+
+        listen 8000;
+        server_name 0.0.0.0;
+
+        location / {
+
+                expires -1;
+                root /var/www/html/backend/new_switch_api/ANGULAR_WMS/app;
+        }
+}
+
+milk_basket_industry_type parent branch
+
+																																																																																																																																																	git clone -b notification_master https://github.com/Mieone/WMS_ANGULAR.git notification_master
+
+
+Name: Vinay Kumar Medikonda
+CSC ID: 677712350014
+Bank Name: ICICI
+Branch Name: 2326 Old Airport Road Branch
+Account No: 232601514974
+IFSC Code: ICIC0002326
+PAN No: ECFPM4085Q
+==================================
+ALTER TABLE SELLER_PO_SUMMARY DROP COLUMN mrp;
+==================================
+mysql -uroot -pvinaymdk STAGING_NEW < dds_vinay.sql
+
+
+==================================
+MB-1:Drums Food International Pvt. Ltd.
+MIL20180621_54
+
+
+- Multiple skus adding issue fixed in receive po
+- 00check receive multiple skus adding issue fixed
+
+
+mysql -uroot -phdrn59! isprava_db < isprava_db_16_07_18.sql
+
+- Added courier name in create orders
+
+============================================
+A & T Reference Links
+----------------------
+http://antstationers.co.in/
+https://www.flipkart.com/mobile-phones-store?otracker=nmenu_sub_Electronics_0_Mobiles
+
+======================================
+lessc ANGULAR_WMS/app/styles/custom/less/custom.less ANGULAR_WMS/app/styles/custom/custom.css
+
+
+Deleted Branches from GIT
+=========================
+- mail_format_css_issue
+- rtv_issues
+- tab_space_inbound
+- receive_fields_manditory
+- customer_master_mail_issue
+- wms_dev_receive_po_issues
+- add_brand_categories
+- wms_dev_issues
+- a_and_t_payment_inv_based
+- edit_dc_config_remove
+- inbound_new_tabs
+- search_categories_issues
+- add_sagar_fab_image
+- cust_ui_changes
+- new_switch_api
+- sm_products_checkboxs
+- pos_dynamic_url
+- move_inventory
+- outbound_view_orders
+
+rm -r search_categories_issues add_sagar_fab_image cust_ui_changes new_switch_api sm_products_checkboxs pos_dynamic_url move_inventory outbound_view_orders
+
+permissions.user_type == 'central_admin' && permissions.priceband_sync
